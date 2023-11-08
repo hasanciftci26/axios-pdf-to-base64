@@ -1,0 +1,1 @@
+This app gets a PDF file as stream (binary) with "application/pdf" content type from an API by using Axios NPM Package. Also, converts the PDF File into Base64 and writes it into a PDF file. 

@@ -1,0 +1,15 @@
+{
+  "name": "tech-hub-pdf",
+  "version": "1.0.0",
+  "description": "Axios Tech Hub PDF ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
